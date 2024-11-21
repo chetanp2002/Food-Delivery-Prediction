@@ -7,3 +7,4 @@ geopy
 scikit-learn
 xgboost
 streamlit
+gunicorn
