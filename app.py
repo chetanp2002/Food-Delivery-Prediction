@@ -78,7 +78,7 @@ def label_encoding(df):
 
 
 # Define Streamlit app
-st.title('Delivery Time Prediction')
+st.title('Food Delivery Time Prediction')
 
 # User input for each feature
 delivery_person_id = st.text_input('**Delivery Person ID**', 'BANGRES19DEL01')
