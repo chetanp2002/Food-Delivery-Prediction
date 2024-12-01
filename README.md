@@ -148,6 +148,6 @@ Open the notebook and execute cells step-by-step to reproduce the analysis and r
 
 ## Author Information:
  Name: Chetan Pawar
- LinkedIn: [https://github.com/chetanp2002](https://www.linkedin.com/in/data-scientist-chetan/)
+ LinkedIn: [LinkedIn](https://www.linkedin.com/in/data-scientist-chetan/)
 
  Feel free to reach out for any questions or feedback!
